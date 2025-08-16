@@ -1,0 +1,10 @@
+Question 2
+
+Patterns of accuracy, when hidden nodes increase,
+
+1.) Accuracy is increasing
+
+2)
+1.Low neurons = Underfitting (Accuracy low)
+2.Moderate neurons = best fir (Accuracy high and stable)
+3.Too many neurons = overfitting risk (Accuracy on training stays high, but generalization may drop)
